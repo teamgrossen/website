@@ -1,23 +1,65 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1002/ece3.8739
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  tags: 
+   - Aldabra giant tortoises
+- id: doi:10.1038/s41467-020-14803-1
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-14803-1/MediaObjects/41467_2020_14803_Fig1_HTML.png?as=webp
+  tags: 
+   - Alpine ibex
+- id: doi:10.1111/1755-0998.13442
+  type: paper
+  tags: 
+   - Alpine ibex
+- id: doi:10.1111/j.1558-5646.2012.01810.x
+  type: paper
+- id: doi:10.1093/gigascience/giac090
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/11/10.1093_gigascience_giac090/2/m_giac090fig1.jpeg?Expires=1688193687&Signature=U9OhKJ94rzN2pcGwys3arT~EMSvE8Ns8GkcNCIBIi42JVeI3uQ8ahZ-uvO9XeI7KDnR9Gj15DkDNd0UCCPDA0YbbMxvNY5Kmjc5b-MpCLUJF~6SDgJ5L~GLwJxsM6f9VyQKHD3rkCenvoma6H5nwQYntuSTuNiHUp-pFdid0E0K8-ONFp8SH5RAXW~hQII1k0AOA1c2yvkLIJOnIiVtxCZ~ZqmkIgMeh9uhNIHn1MouI3Z7JjTGpcT40NaOUANtXJCqWk5Qd4JfmGIizVEbUF3f1dqSj7DkZHveA89-JcrnoqRNXJpzVDiu811fHXAX0PLdb3CzJMaWw6wWzjrM6eA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+   - Aldabra giant tortoises
+- id: doi:10.1111/mec.16503
+  type: paper
+  tags: 
+   - Alpine ibex
+   - Ancient DNA
+- id: doi:10.1111/1755-0998.13452
+  type: paper
+  tags: 
+   - Alpine ibex
+- id: doi:10.1371/journal.pbio.1001062
+  type: paper
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1001062.g001
+  tags: 
+   - Sex determination systems
+- id: doi:10.1111/mec.14858
+  type: paper
+- id: doi:10.1111/eva.12575
+  type: paper
+  tags: 
+   - Alpine ibex
+- id: doi:10.1111/j.1365-294X.2010.04884.x
+  type: paper
+- id: doi:10.1111/eva.12490
+  type: paper
+  tags: 
+   - Alpine ibex
+- id: doi:10.1086/668076
+  type: paper
+  tags: 
+   - Sex determination systems
+- id: doi:10.1371/journal.pgen.1004438
+  type: paper
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1004438.g001
+  tags: 
+   - Alpine ibex  
+- id: doi:10.1111/mec.13751
+  type: paper
+- id: doi:10.1111/j.1558-5646.2010.01098.x
+  type: paper
+  tags: 
+   - Sex determination systems
+- id: doi:10.1111/j.1558-5646.2012.01661.x
+  type: paper
+  tags: 
+   - Sex determination systems
