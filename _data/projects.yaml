@@ -11,6 +11,14 @@
   group: featured
   image: images/bartgeier.jpg
   link:
-  description: Bearded vultures were exterminated in the Alps in the 19th century. The species was successfully reintroduced in the Alps and counts now around 200 individuals. We are interested in the genetic health of the reintroduced population and possible effects of inbreeding on fitness.
+  description: Bearded vultures were exterminated in the Alps in the 19th century. A major captive breeding effort successfully resulted in reintroducing the species across the Alps and counts now around 200 individuals. We are interested in the genetic health of the reintroduced population and possible effects of inbreeding on fitness.
+  repo: 
+  tags:
+- title: Aldabra giant tortoise
+  subtitle: 
+  group: featured
+  image: images/aldabra.png
+  link:
+  description: Aldabra giant tortoises were exterminated on the Seychelles islands. The species was successfully reintroduced on several islands and counts now around 100’000 individuals. We are interested in the genetic health of the reintroduced population.
   repo: 
   tags:
