@@ -1,47 +1,16 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Alpine ibex
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/ibex.jpeg
+  link:
+  description: Alpine ibex suffered from a population bottleneck of a few hundred individuals caused by overhunting. The species was reestablished across the Alps and counts again around 40’000 individuals. We showed that Alpine ibex received genetic material from domestic goats through hybridization and introgression. A process that was likely favored by the population bottleneck. We are also interested in the consequences of population bottlenecks on the fate of deleterious mutations.
+  repo: 
   tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
+- title: Bearded vulture
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/bartgeier.jpg
+  link:
+  description: Bearded vultures were exterminated in the Alps in the 19th century. The species was successfully reintroduced in the Alps and counts now around 200 individuals. We are interested in the genetic health of the reintroduced population and possible effects of inbreeding on fitness.
+  repo: 
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
