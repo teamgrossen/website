@@ -1,7 +1,7 @@
 ---
 name: Christine Grossen
 description: Scientific collaborator
-image: images/christine.jpg
+image: images/christine.png
 group: current
 role: pi
 aliases:
