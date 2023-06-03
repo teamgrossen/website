@@ -68,27 +68,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -104,30 +88,301 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1002/ece3.8739
+  title: "Low\u2010coverage reduced representation sequencing reveals subtle within\u2010\
+    island genetic structure in Aldabra giant tortoises"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - "F. G\xF6zde \xC7ilingir"
+  - Dennis Hansen
+  - Nancy Bunbury
+  - Erik Postma
+  - Richard Baxter
+  - Lindsay Turnbull
+  - Arpat Ozgul
+  - Christine Grossen
+  publisher: Ecology and Evolution
+  date: '2022-03-01'
+  link: https://doi.org/gr98z3
+  type: paper
+  tags:
+  - Aldabra giant tortoises
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1038/s41467-020-14803-1
+  title: Purging of highly deleterious mutations through severe bottlenecks in Alpine
+    ibex
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Christine Grossen
+  - "Fr\xE9d\xE9ric Guillaume"
+  - Lukas F. Keller
+  - Daniel Croll
+  publisher: Nature Communications
+  date: '2020-02-21'
+  link: https://doi.org/ghw7ch
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-14803-1/MediaObjects/41467_2020_14803_Fig1_HTML.png?as=webp
+  tags:
+  - Alpine ibex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1755-0998.13442
+  title: Disentangling adaptation from drift in bottlenecked and reintroduced populations
+    of Alpine ibex
+  authors:
+  - Deborah M. Leigh
+  - Heidi E. L. Lischer
+  - "Fr\xE9d\xE9ric Guillaume"
+  - Christine Grossen
+  - "Torsten G\xFCnther"
+  publisher: Molecular Ecology Resources
+  date: '2021-06-24'
+  link: https://doi.org/gm3xpk
+  type: paper
+  tags:
+  - Alpine ibex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1558-5646.2012.01810.x
+  title: SEX-CHROMOSOME TURNOVERS INDUCED BY DELETERIOUS MUTATION LOAD
+  authors:
+  - Olivier Blaser
+  - Christine Grossen
+  - Samuel Neuenschwander
+  - Nicolas Perrin
+  publisher: Evolution
+  date: '2012-10-11'
+  link: https://doi.org/f4qr45
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/gigascience/giac090
+  title: Chromosome-level genome assembly for the Aldabra giant tortoise enables insights
+    into the genetic health of a threatened population
+  authors:
+  - "F G\xF6zde \xC7ilingir"
+  - Luke A'Bear
+  - Dennis Hansen
+  - Leyla R Davis
+  - Nancy Bunbury
+  - Arpat Ozgul
+  - Daniel Croll
+  - Christine Grossen
+  publisher: GigaScience
+  date: '2022-01-01'
+  link: https://doi.org/gr6pzm
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/11/10.1093_gigascience_giac090/2/m_giac090fig1.jpeg?Expires=1688193687&Signature=U9OhKJ94rzN2pcGwys3arT~EMSvE8Ns8GkcNCIBIi42JVeI3uQ8ahZ-uvO9XeI7KDnR9Gj15DkDNd0UCCPDA0YbbMxvNY5Kmjc5b-MpCLUJF~6SDgJ5L~GLwJxsM6f9VyQKHD3rkCenvoma6H5nwQYntuSTuNiHUp-pFdid0E0K8-ONFp8SH5RAXW~hQII1k0AOA1c2yvkLIJOnIiVtxCZ~ZqmkIgMeh9uhNIHn1MouI3Z7JjTGpcT40NaOUANtXJCqWk5Qd4JfmGIizVEbUF3f1dqSj7DkZHveA89-JcrnoqRNXJpzVDiu811fHXAX0PLdb3CzJMaWw6wWzjrM6eA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - Aldabra giant tortoises
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.16503
+  title: Ancient mitochondrial and modern whole genomes unravel massive genetic diversity
+    loss during near extinction of Alpine ibex
+  authors:
+  - Mathieu Robin
+  - Giada Ferrari
+  - "G\xFClfirde Akg\xFCl"
+  - "Xenia M\xFCnger"
+  - Johanna von Seth
+  - Verena J. Schuenemann
+  - "Love Dal\xE9n"
+  - Christine Grossen
+  publisher: Molecular Ecology
+  date: '2022-06-05'
+  link: https://doi.org/gqg7dn
+  type: paper
+  tags:
+  - Alpine ibex
+  - Ancient DNA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1755-0998.13452
+  title: "A robust sequencing assay of a thousand amplicons for the high\u2010throughput\
+    \ population monitoring of Alpine ibex immunogenetics"
+  authors:
+  - Camille Kessler
+  - Alice Brambilla
+  - Dominique Waldvogel
+  - Glauco Camenisch
+  - Iris Biebach
+  - Deborah M. Leigh
+  - Christine Grossen
+  - Daniel Croll
+  publisher: Molecular Ecology Resources
+  date: '2021-07-07'
+  link: https://doi.org/gr6pz5
+  type: paper
+  tags:
+  - Alpine ibex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pbio.1001062
+  title: Ever-Young Sex Chromosomes in European Tree Frogs
+  authors:
+  - "Matthias St\xF6ck"
+  - "Agn\xE8s Horn"
+  - Christine Grossen
+  - Dorothea Lindtke
+  - Roberto Sermier
+  - Caroline Betto-Colliard
+  - Christophe Dufresnes
+  - Emmanuel Bonjour
+  - "Zo\xE9 Dumas"
+  - Emilien Luquet
+  - Tiziano Maddalena
+  - Helena Clavero Sousa
+  - "I\xF1igo Martinez-Solano"
+  - Nicolas Perrin
+  publisher: PLoS Biology
+  date: '2011-05-17'
+  link: https://doi.org/cz44vw
+  type: paper
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1001062.g001
+  tags:
+  - Sex determination systems
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.14858
+  title: A comparison of genomic islands of differentiation across three young avian
+    species pairs
+  authors:
+  - Darren E. Irwin
+  - "Borja Mil\xE1"
+  - David P. L. Toews
+  - Alan Brelsford
+  - Haley L. Kenyon
+  - Alison N. Porter
+  - Christine Grossen
+  - Kira E. Delmore
+  - Miguel Alcaide
+  - Jessica H. Irwin
+  publisher: Molecular Ecology
+  date: '2018-10-01'
+  link: https://doi.org/gd52f3
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/eva.12575
+  title: Heterozygosity-fitness correlation at the major histocompatibility complex
+    despite low variation in Alpine ibex (<i>Capra ibex</i>)
+  authors:
+  - Alice Brambilla
+  - Lukas Keller
+  - Bruno Bassano
+  - Christine Grossen
+  publisher: Evolutionary Applications
+  date: '2017-12-04'
+  link: https://doi.org/gr98z4
+  type: paper
+  tags:
+  - Alpine ibex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1365-294X.2010.04884.x
+  title: Effects of different mating scenarios on embryo viability in brown trout
+  authors:
+  - ALAIN JACOB
+  - GUILLAUME EVANNO
+  - BEAT A. VON SIEBENTHAL
+  - CHRISTINE GROSSEN
+  - CLAUS WEDEKIND
+  publisher: Molecular Ecology
+  date: '2010-10-29'
+  link: https://doi.org/bcfcn3
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/eva.12490
+  title: Population genomics analyses of European ibex species show lower diversity
+    and higher inbreeding in reintroduced populations
+  authors:
+  - Christine Grossen
+  - Iris Biebach
+  - Samer Angelone-Alasaad
+  - Lukas F. Keller
+  - Daniel Croll
+  publisher: Evolutionary Applications
+  date: '2017-10-27'
+  link: https://doi.org/gc5hzw
+  type: paper
+  tags:
+  - Alpine ibex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1086/668076
+  title: 'The Balanced Lethal System of Crested Newts: A Ghost of Sex Chromosomes
+    Past?'
+  authors:
+  - Christine Grossen
+  - Samuel Neuenschwander
+  - Nicolas Perrin
+  publisher: The American Naturalist
+  date: '2012-12-01'
+  link: https://doi.org/f4dj5k
+  type: paper
+  tags:
+  - Sex determination systems
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1004438
+  title: Introgression from Domestic Goat Generated Variation at the Major Histocompatibility
+    Complex of Alpine Ibex
+  authors:
+  - Christine Grossen
+  - Lukas Keller
+  - Iris Biebach
+  - Daniel Croll
+  publisher: PLoS Genetics
+  date: '2014-06-19'
+  link: https://doi.org/f59w6g
+  type: paper
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1004438.g001
+  tags:
+  - Alpine ibex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.13751
+  title: Strong reproductive isolation and narrow genomic tracts of differentiation
+    among three woodpecker species in secondary contact
+  authors:
+  - Christine Grossen
+  - Sampath S. Seneviratne
+  - Daniel Croll
+  - Darren E. Irwin
+  publisher: Molecular Ecology
+  date: '2016-08-26'
+  link: https://doi.org/f8463z
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1558-5646.2010.01098.x
+  title: 'TEMPERATURE-DEPENDENT TURNOVERS IN SEX-DETERMINATION MECHANISMS: A QUANTITATIVE
+    MODEL'
+  authors:
+  - Christine Grossen
+  - Samuel Neuenschwander
+  - Nicolas Perrin
+  publisher: Evolution
+  date: '2010-09-24'
+  link: https://doi.org/cqxk3k
+  type: paper
+  tags:
+  - Sex determination systems
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1558-5646.2012.01661.x
+  title: 'THE EVOLUTION OF XY RECOMBINATION: SEXUALLY ANTAGONISTIC SELECTION VERSUS
+    DELETERIOUS MUTATION LOAD'
+  authors:
+  - Christine Grossen
+  - Samuel Neuenschwander
+  - Nicolas Perrin
+  publisher: Evolution
+  date: '2012-05-05'
+  link: https://doi.org/f4bhzx
+  type: paper
+  tags:
+  - Sex determination systems
   plugin: sources.py
   file: sources.yaml
