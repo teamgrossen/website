@@ -19,8 +19,8 @@ Our research projects span a variety of species, systems and approaches in Switz
 
 {%
   include button.html
-  link="research"
-  text="See our research"
+  link="projects"
+  text="See our research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -31,7 +31,7 @@ Our research projects span a variety of species, systems and approaches in Switz
 {%
   include feature.html
   image="images/ibex.jpeg"
-  link="research"
+  link="project"
   title="Our Research focus"
   text=text
 %}
