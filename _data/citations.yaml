@@ -68,6 +68,8 @@
   link: https://doi.org/f4qr45
   type: paper
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/67/3/10.1111_j.1558-5646.2012.01810.x/4/m_evo_1810_f2.gif?Expires=1688453950&Signature=wfNFR-XKOnA1Dy0bvGjJDx44TZJw2ed8S-3ErMOiNXrH7pEPBRi9ZDcn9-6wrGhA9weuNBQ-sqn414fPAlTKMILdMZGC0gp7cLwcHBxBCCpqCMBDAyxpemvLrmR657Llwi98WWK5-yi8EQCYW6OTFvfZd4Z3yolrvMB95ImretVQWVa4v9NJqp015hGUFwpyncERJ0Spkf7O1mGpXglB5JVKjbtaNd3UYF3Gqd~sDfET~-waD8QEQTB4PuLEjkGf6hyYD9imUDtwhOL8E9112zC3geSsR~73lG3ti3UYTlrunN09wHkn8kJ-WVMbpt3z-lGl0TwK77a8DjwZ-rPFpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - Sex determination systems
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gigascience/giac090
@@ -290,7 +292,7 @@
   date: '2010-09-24'
   link: https://doi.org/cqxk3k
   type: paper
-  image: null
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/65/1/10.1111_j.1558-5646.2010.01098.x/3/m_evo_1098_f3.gif?Expires=1688862449&Signature=pP-KqUQCdiDmF8VXn-RI4fPm48vUdxqEn5FZ-1rPELjWH0v4eJdsvHBOzgY~YDitp8BrdzyQyOVb-2-yy--ZUaqkd2rVKWmAfVLT0NLnQNcZUF3mm4g-VqvGOZ5TLuRXwLpEK955KSmghK4KccW4r9-PNT9yLsp2-yh-tNIFkpVBExkyFVMJvwAxcjnJOu7YizB2IMrgc~oiJssT0SUQq7fL-XvkJszFTx6ePsEYpFCTYtHEpKk3Ft5TA6JGu-m3kOBV7JA5GuSDClLPUlnVwJM7CdqoqezrtY8vHpr50ZUXjWKFxOcbAcHO6t7mLcLOSkfJXyHRUP6Y4NFKvQSY5g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - Sex determination systems
   plugin: sources.py
@@ -309,5 +311,154 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/66/10/10.1111_j.1558-5646.2012.01661.x/4/m_evo_1661_f1.gif?Expires=1688862737&Signature=u6PdR5A2wsjug7v5UrqTq1Bs9gVEboGW8Lx2akFsy2sH5lVu5hPzROclbpFZsnz1LKOCog1RmQ4UicQ~VhGv-Qav6h2gjoxhySHqEBXYCdM54VWrOMGZ5jtLCQv3AIlywyGcJ2WnCJ2Fm0xaW6InzcpDYQgA6DECyIPG9SlqZ0u9jxyT3cR7L8ykExJEMyQ3wRRJxp2db-YD351Shax7vot5ap8IJj3Ish5FlBwtSs6IeHtjL~zUl1H5ipQ5enntQlmd4woNoTq3qVWVjtEAkjaK58OC3ifaIBcuiyIGLIRyvNNhjevBf4qFVABfVWORDwgKw20qfV6A~LBFPVQ2Ww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - Sex determination systems
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10344-011-0592-0
+  title: Microsatellite-based genotyping of MHC class II DRB1 gene in Iberian and
+    Alpine ibex
+  authors:
+  - Samer Alasaad
+  - Iris Biebach
+  - Christine Grossen
+  - "Ram\xF3n C. Soriguer"
+  - "Jes\xFAs M. P\xE9rez"
+  - Lukas F. Keller
+  publisher: European Journal of Wildlife Research
+  date: '2011-11-11'
+  link: https://doi.org/cx488v
+  type: paper
+  image: https://link.springer.com/article/10.1007/s10344-011-0592-0/figures/1
+  tags:
+  - Alpine ibex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1642/AUK-16-61.1
+  title: Genomic variation across the Yellow-rumped Warbler species complex
+  authors:
+  - David P. L. Toews
+  - Alan Brelsford
+  - Christine Grossen
+  - "Borja Mil\xE1"
+  - Darren E. Irwin
+  publisher: The Auk
+  date: '2016-10-01'
+  link: https://doi.org/f87qgs
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/auk/133/4/10.1642_AUK-16-61.1/4/m_i0004-8038-133-4-698-f01.jpeg?Expires=1688770283&Signature=Zw4MItjtWlQU8qj0OzcFOysct1f4RFntzucuTy-B4Exb1FGeD6qsb3XW9vtOJHH8u9VZoSB~oStLv1dXha8zeYQP~B491~5Fji03Ub5JSCShrDSkH0ExIB1r5ar31Fx8JOSySrKSpX0t~IMh6kn5s~sHLIat3p~G1VVfFauVyKaPYtmFGHojnUk2seFXJPQcF-W1s3FNbkzYnXg6qmn3Y~oe96U56Dn28pDUOoPDI5j0eRgJhuNEyOVCm7QGdN7vXiVzDGy22HUMXuXMlgetdxG9bNEUtsRWLIp6qYICHg4zPNwvv4MoRL7AZNw~u6QF~wVWNIAS8YscmjqvvpYz1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fevo.2018.00144
+  title: Genomic Evidence for Cryptic Speciation in Tree Frogs From the Apennine Peninsula,
+    With Description of Hyla perrini sp. nov
+  authors:
+  - Christophe Dufresnes
+  - Glib Mazepa
+  - Nicolas Rodrigues
+  - Alan Brelsford
+  - Spartak N. Litvinchuk
+  - Roberto Sermier
+  - Guillaume Lavanchy
+  - Caroline Betto-Colliard
+  - Olivier Blaser
+  - "Ama\xEBl Borz\xE9e"
+  - Elisa Cavoto
+  - Guillaume Fabre
+  - Karim Ghali
+  - Christine Grossen
+  - Agnes Horn
+  - Julien Leuenberger
+  - Barret C. Phillips
+  - Paul A. Saunders
+  - Romain Savary
+  - Tiziano Maddalena
+  - "Matthias St\xF6ck"
+  - Sylvain Dubey
+  - Daniele Canestrelli
+  - Daniel L. Jeffries
+  publisher: Frontiers in Ecology and Evolution
+  date: '2018-10-02'
+  link: https://doi.org/gr982v
+  type: paper
+  image: https://www.frontiersin.org/files/Articles/407750/fevo-06-00144-HTML-r2/image_m/fevo-06-00144-g003.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/jbg.12226
+  title: 'Microsatellite diversity of the Nordic type of goats in relation to breed
+    conservation: how relevant is pure ancestry?'
+  authors:
+  - J.A. Lenstra
+  - J. Tigchelaar
+  - I. Biebach
+  - J.H. Hallsson
+  - J. Kantanen
+  - V.H. Nielsen
+  - F. Pompanon
+  - S. Naderi
+  - H.-R. Rezaei
+  - N. Saether
+  - O. Ertugrul
+  - C. Grossen
+  - G. Camenisch
+  - M. Vos-Loohuis
+  - M. van Straten
+  - E.A. de Poel
+  - J. Windig
+  - K. Oldenbroek
+  publisher: Journal of Animal Breeding and Genetics
+  date: '2016-06-24'
+  link: https://doi.org/f9kz7b
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/e08aef3a-0015-4ab7-b962-ee1210a80814/jbg12226-fig-0002-m.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1755-0998.12779
+  title: 'Batch effects in a multiyear sequencing study: False biological trends due
+    to changes in read lengths'
+  authors:
+  - D. M. Leigh
+  - H. E. L. Lischer
+  - C. Grossen
+  - L. F. Keller
+  publisher: Molecular Ecology Resources
+  date: '2018-04-16'
+  link: https://doi.org/gnn2cg
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/7e821da4-9fb6-4441-a6f3-84a1a892e7bf/men12779-fig-0001-m.jpg
+  tags:
+  - Alpine ibex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12686-021-01225-4
+  title: Design of SNP markers for Aldabra giant tortoises using low coverage ddRAD-seq
+  authors:
+  - "F. G. \xC7ilingir"
+  - D. Hansen
+  - A. Ozgul
+  - C. Grossen
+  publisher: Conservation Genetics Resources
+  date: '2021-07-28'
+  link: https://doi.org/gr982w
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12686-021-01225-4/MediaObjects/12686_2021_1225_Fig1_HTML.png
+  tags:
+  - Aldabra giant tortoise
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1755-0998.12075
+  title: Development of<scp>SNP</scp>markers identifying European wildcats, domestic
+    cats, and their admixed progeny
+  authors:
+  - B. Nussberger
+  - M. P. Greminger
+  - C. Grossen
+  - L. F. Keller
+  - P. Wandeler
+  publisher: Molecular Ecology Resources
+  date: '2013-02-11'
+  link: https://doi.org/f4sqgb
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/23d47e22-d751-4d11-81f8-ca9fba2552ef/men12075-fig-0001-m.jpg
+  tags:
+  - European wildcat
   plugin: sources.py
   file: sources.yaml
