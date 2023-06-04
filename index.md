@@ -43,7 +43,7 @@ We are a team with a passion for combining conservation efforts with genomics in
 {%
   include button.html
   link="team"
-  text="Our laboratory"
+  text="Our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
