@@ -1,8 +1,7 @@
+---
+---
 
-
-
-
-# Welcome to our lab!
+# Welcome to our team!
 
 We are broadly interested in conservation efforts aided by genomics and population analyses. Our main models include Alpine ibex, the Bearded vulture and the Aldabra giant tortoise.
 
