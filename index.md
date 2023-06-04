@@ -30,7 +30,7 @@ Our research projects span a variety of species, systems and approaches in Switz
 
 {%
   include feature.html
-  image="images/ibex.png"
+  image="images/ibex.jpeg"
   link="research"
   title="Our Research focus"
   text=text
