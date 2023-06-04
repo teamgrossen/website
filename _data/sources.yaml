@@ -1,5 +1,6 @@
 - id: doi:10.1002/ece3.8739
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/18b43129-8a2a-4eac-a6dd-2628694471a7/ece38739-fig-0001-m.png
   tags: 
    - Aldabra giant tortoises
 - id: doi:10.1038/s41467-020-14803-1
@@ -9,10 +10,12 @@
    - Alpine ibex
 - id: doi:10.1111/1755-0998.13442
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/2cc18a1f-704e-4b6a-b053-364bc2169f1c/men13442-fig-0002-m.png
   tags: 
    - Alpine ibex
 - id: doi:10.1111/j.1558-5646.2012.01810.x
   type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/67/3/10.1111_j.1558-5646.2012.01810.x/4/m_evo_1810_f2.gif?Expires=1688453950&Signature=wfNFR-XKOnA1Dy0bvGjJDx44TZJw2ed8S-3ErMOiNXrH7pEPBRi9ZDcn9-6wrGhA9weuNBQ-sqn414fPAlTKMILdMZGC0gp7cLwcHBxBCCpqCMBDAyxpemvLrmR657Llwi98WWK5-yi8EQCYW6OTFvfZd4Z3yolrvMB95ImretVQWVa4v9NJqp015hGUFwpyncERJ0Spkf7O1mGpXglB5JVKjbtaNd3UYF3Gqd~sDfET~-waD8QEQTB4PuLEjkGf6hyYD9imUDtwhOL8E9112zC3geSsR~73lG3ti3UYTlrunN09wHkn8kJ-WVMbpt3z-lGl0TwK77a8DjwZ-rPFpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1093/gigascience/giac090
   type: paper
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/11/10.1093_gigascience_giac090/2/m_giac090fig1.jpeg?Expires=1688193687&Signature=U9OhKJ94rzN2pcGwys3arT~EMSvE8Ns8GkcNCIBIi42JVeI3uQ8ahZ-uvO9XeI7KDnR9Gj15DkDNd0UCCPDA0YbbMxvNY5Kmjc5b-MpCLUJF~6SDgJ5L~GLwJxsM6f9VyQKHD3rkCenvoma6H5nwQYntuSTuNiHUp-pFdid0E0K8-ONFp8SH5RAXW~hQII1k0AOA1c2yvkLIJOnIiVtxCZ~ZqmkIgMeh9uhNIHn1MouI3Z7JjTGpcT40NaOUANtXJCqWk5Qd4JfmGIizVEbUF3f1dqSj7DkZHveA89-JcrnoqRNXJpzVDiu811fHXAX0PLdb3CzJMaWw6wWzjrM6eA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -20,11 +23,13 @@
    - Aldabra giant tortoises
 - id: doi:10.1111/mec.16503
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/b4ee8bae-377d-420c-a45b-6b6397f08077/mec16503-fig-0001-m.jpg
   tags: 
    - Alpine ibex
    - Ancient DNA
 - id: doi:10.1111/1755-0998.13452
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/b18c5229-a7a1-4a2e-9202-3246e2d50d81/men13452-fig-0004-m.jpg
   tags: 
    - Alpine ibex
 - id: doi:10.1371/journal.pbio.1001062
@@ -34,18 +39,23 @@
    - Sex determination systems
 - id: doi:10.1111/mec.14858
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/a1ecf1fa-7e96-45c4-b79d-493683da69b6/mec14858-fig-0003-m.jpg
 - id: doi:10.1111/eva.12575
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/e8ca8bb3-e391-4044-8ecf-34cca8d2f9bd/eva12575-fig-0003-m.jpg
   tags: 
    - Alpine ibex
 - id: doi:10.1111/j.1365-294X.2010.04884.x
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/3f09468e-1f86-4015-87d2-91f9c9e3c04a/mec_4884_f3.gif
 - id: doi:10.1111/eva.12490
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/1d163999-6b33-436d-a303-296c2ad4ecef/eva12490-fig-0001-m.jpg
   tags: 
    - Alpine ibex
 - id: doi:10.1086/668076
   type: paper
+  image: https://www.journals.uchicago.edu/cms/10.1086/668076/asset/images/large/fg1.jpeg
   tags: 
    - Sex determination systems
 - id: doi:10.1371/journal.pgen.1004438
@@ -55,11 +65,14 @@
    - Alpine ibex  
 - id: doi:10.1111/mec.13751
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/4518eb2f-3642-4b5a-80b4-50ef37fce670/mec13751-fig-0005-m.jpg
 - id: doi:10.1111/j.1558-5646.2010.01098.x
   type: paper
+  image: 
   tags: 
    - Sex determination systems
 - id: doi:10.1111/j.1558-5646.2012.01661.x
   type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/66/10/10.1111_j.1558-5646.2012.01661.x/4/m_evo_1661_f1.gif?Expires=1688862737&Signature=u6PdR5A2wsjug7v5UrqTq1Bs9gVEboGW8Lx2akFsy2sH5lVu5hPzROclbpFZsnz1LKOCog1RmQ4UicQ~VhGv-Qav6h2gjoxhySHqEBXYCdM54VWrOMGZ5jtLCQv3AIlywyGcJ2WnCJ2Fm0xaW6InzcpDYQgA6DECyIPG9SlqZ0u9jxyT3cR7L8ykExJEMyQ3wRRJxp2db-YD351Shax7vot5ap8IJj3Ish5FlBwtSs6IeHtjL~zUl1H5ipQ5enntQlmd4woNoTq3qVWVjtEAkjaK58OC3ifaIBcuiyIGLIRyvNNhjevBf4qFVABfVWORDwgKw20qfV6A~LBFPVQ2Ww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags: 
    - Sex determination systems
