@@ -6,6 +6,7 @@ group: current
 role: pi
 aliases:
   - Christine Grossen
+  - C. Grossen
 links:
   email: christine.grossen@wsl.ch
   orcid: 0000-0003-4157-1910
