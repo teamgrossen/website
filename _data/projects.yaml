@@ -6,12 +6,12 @@
   description: Alpine ibex suffered from a population bottleneck of a few hundred individuals caused by overhunting. The species was reestablished across the Alps and counts again around 40’000 individuals. We showed that Alpine ibex received genetic material from domestic goats through hybridization and introgression. A process that was likely favored by the population bottleneck. We are also interested in the consequences of population bottlenecks on the fate of deleterious mutations.
   repo: 
   tags:
-- title: Bearded vulture
+- title: European wild cat
   subtitle: 
   group: featured
-  image: images/bartgeier.jpg
+  image: images/wildcat.png
   link:
-  description: Bearded vultures were exterminated in the Alps in the 19th century. A major captive breeding effort successfully resulted in reintroducing the species across the Alps and counts now around 200 individuals. We are interested in the genetic health of the reintroduced population and possible effects of inbreeding on fitness.
+  description: European Wildcats are currently recovering in Switzerland after having almost completely disappeared in the middle of the 20th century. Due to a range expansion, the species gets increasingly into contact with domestic cats and mate with them resulting in fertile hybrids. We perform genome-wide analyses of introgression and mutation load in Wildcats and hybrids to improve our understanding, how well hybrids cope with their mixed ancestry of a wild and a domesticated species and how hybridisation may affect the long-term survivability of Wildcats.
   repo: 
   tags:
 - title: Aldabra giant tortoise
@@ -22,3 +22,11 @@
   description: Aldabra giant tortoises were exterminated on the Seychelles islands. The species was successfully reintroduced on several islands and counts now around 100’000 individuals. We are interested in the genetic health of the reintroduced population.
   repo: 
   tags:
+# - title: Bearded vulture
+#   subtitle:
+#   group: featured
+#   image: images/bartgeier.jpg
+#   link:
+#   description: Bearded vultures were exterminated in the Alps in the 19th century. A major captive breeding effort successfully resulted in reintroducing the species across the Alps and counts now around 200 individuals. We are interested in the genetic health of the reintroduced population and possible effects of inbreeding on fitness.
+#   repo:
+#   tags:
