@@ -1,9 +1,9 @@
 ---
 ---
 
-# Welcome to our team!
+# Welcome!
 
-We are broadly interested in conservation efforts aided by genomics and population analyses. Our main models include Alpine ibex, the Bearded vulture and the Aldabra giant tortoise.
+I am broadly interested in conservation efforts aided by genomics and population analyses. Our main models include Alpine ibex, the Bearded vulture and the Aldabra giant tortoise.
 
 {% include section.html %}
 
