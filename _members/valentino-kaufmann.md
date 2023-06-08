@@ -1,7 +1,7 @@
 ---
 name: Valentino Kaufmann
 description: MSc student UZH
-image: images/photo.jpg
+image: images/valentino.png
 group: current
 role: undergrad
 aliases:
