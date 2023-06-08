@@ -4,7 +4,7 @@
   image: images/ibex.jpeg
   link:
   description: Alpine ibex (Capra ibex) are an excellent model to investigate the population genomic consequences of profound bottlenecks. As a consequence of centuries-long strong hunting pressure, Alpine ibex nearly went extinct at the beginning of the 19th century, but recovered thanks to a very successful reintroduction program.
-We combine ancient, historic and modern samples spanning a period of more than 8000 years to investigate the consequences of near extinction on the genomic makeup of a species. For this, we take advantage of various genomic tools, including whole-genome sequencing.
+We combine ancient, historic and modern samples spanning a period of more than 12000 years to investigate the consequences of near extinction (and locally frequent hybridisation with Domestic goat) on the genomic makeup of a species.
   repo: 
   tags:
 - title: European wild cat
@@ -12,7 +12,7 @@ We combine ancient, historic and modern samples spanning a period of more than 8
   group: featured
   image: images/wildcat.png
   link:
-  description: European Wildcats are currently recovering in Switzerland after having almost completely disappeared in the middle of the 20th century. Due to a range expansion, the species gets increasingly into contact with domestic cats and mate with them resulting in fertile hybrids. We perform genome-wide analyses of introgression and mutation load in Wildcats and hybrids to improve our understanding, how well hybrids cope with their mixed ancestry of a wild and a domesticated species and how hybridisation may affect the long-term survivability of Wildcats.
+  description: European Wildcats are currently recovering in Switzerland after having almost completely disappeared in the middle of the 20th century. Due to a range expansion, the species gets increasingly into contact with Domestic cats and mate with them resulting in fertile hybrids. We perform genome-wide analyses of introgression and mutation load in Wildcats and hybrids to improve our understanding, how well hybrids cope with their mixed ancestry of a wild and a domesticated species and how hybridisation may affect the long-term survivability of Wildcats.
   repo: 
   tags:
 - title: Aldabra giant tortoise
@@ -20,7 +20,7 @@ We combine ancient, historic and modern samples spanning a period of more than 8
   group: featured
   image: images/aldabra1.jpg
   link:
-  description: The Aldabra giant tortoise (Aldabrachelys gigantea) is the sole survivor of at least nine giant tortoise species that once occupied most islands in the Western Indian Ocean. Aldabra giants are currently at fairly healthy numbers, but the future of the species is uncertain because of the very restricted distribution range and a high vulnerability to projected climate change (i.e. sea level rise). We combine whole-genome and amplicon sequencing to lay the foundation for a significantly improved conservation management and enable scientifically relevant insights into the population structure of these iconic tortoises.
+  description: The Aldabra giant tortoise (Aldabrachelys gigantea) is the sole survivor of at least nine giant tortoise species that once occupied most islands in the Western Indian Ocean. Aldabra giants are currently at fairly healthy numbers, but the future of the species is uncertain because of the very restricted distribution range and a high vulnerability to projected climate change (i.e. sea level rise). We use whole-genome and epigenome sequencing to lay the foundation for a significantly improved conservation management and enable scientifically relevant insights into the population structure of these iconic tortoises.
   repo: 
   tags:
 - title: Bumblebees
@@ -28,7 +28,7 @@ We combine ancient, historic and modern samples spanning a period of more than 8
   group: featured
   image: images/bombus.jpg
   link:
-  description: In a pilot project on Bumblebees (Bombus lapidarius and Bombus pascuorum), we perform genetic comparisons of urban and rural bumblebees showing striking phenotypic differences.
+  description: In a pilot project on Bumblebees (Bombus lapidarius and Bombus pascuorum), we perform genome-wide comparisons of urban and rural bumblebees showing striking phenotypic differences.
   repo: 
   tags:
 # - title: Bearded vulture
