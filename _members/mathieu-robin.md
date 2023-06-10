@@ -2,7 +2,7 @@
 name: Mathieu Robin
 description: PhD student UZH
 image: images/mathieu.png
-group: alumni
+group: past
 role: phd
 aliases:
   - Mathieu Robin
