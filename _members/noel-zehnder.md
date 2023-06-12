@@ -2,7 +2,7 @@
 name: Noel Zehnder
 description: MSc student UZH
 image: images/noel.png
-group: allumni
+group: alumni
 role: undergrad
 aliases:
   - Noel Zehnder

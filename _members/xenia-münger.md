@@ -2,7 +2,7 @@
 name: Xenia Münger
 description: MSc student UZH
 image: images/xenia.png
-group: allumni
+group: alumni
 role: undergrad
 aliases:
   - Xenia Münger
