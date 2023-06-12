@@ -3,7 +3,7 @@
   group: featured
   image: images/ibex.jpeg
   link:
-  description: Alpine ibex are an excellent model to investigate the population genomic consequences of profound bottlenecks. As a consequence of centuries-long strong hunting pressure, Alpine ibex nearly went extinct at the beginning of the 19th century, but recovered thanks to a very successful reintroduction program. We combine ancient, historic and modern samples spanning a period of more than 12000 years to investigate the consequences of near extinction (and locally frequent hybridisation with Domestic goat) on the genomic makeup of a species.
+  description: Alpine ibex are an excellent model to investigate the population genomic consequences of profound bottlenecks. As a consequence of centuries-long strong hunting pressure, Alpine ibex nearly went extinct at the beginning of the 19th century, but recovered thanks to a very successful reintroduction program. We combine ancient, historic and modern samples spanning a period of more than 12000 years to investigate the consequences of near extinction (and locally frequent hybridisation with Domestic goat) on the genomic makeup of Alpine ibex.
   repo: 
   tags:
 - title: European wild cat
@@ -11,7 +11,7 @@
   group: featured
   image: images/wildcat.png
   link:
-  description: European Wildcats are currently recovering in Switzerland after having almost completely disappeared in the middle of the 20th century. Due to a range expansion, the species gets increasingly into contact with Domestic cats and mate with them resulting in fertile hybrids. We perform genome-wide analyses of introgression and mutation load in Wildcats and hybrids to improve our understanding, how well hybrids cope with their mixed ancestry of a wild and a domesticated species and how hybridisation may affect the long-term survivability of Wildcats.
+  description: European Wildcats are currently recovering in Switzerland after having almost completely disappeared in the middle of the 20th century. Due to a range expansion, the species gets increasingly into contact with Domestic cats resulting in fertile hybrids. We perform genome-wide analyses of introgression and mutation load in Wildcats and hybrids to improve our understanding, how well hybrids cope with their mixed ancestry of a wild and a domesticated species and how hybridisation may affect the long-term survivability of Wildcats.
   repo: 
   tags:
 - title: Aldabra giant tortoise
