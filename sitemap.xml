@@ -1,51 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>/members/christine-grossen.html</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>/members/gozde-cilingir.html</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/projects/</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/members/mathieu-robin.html</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/team/</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/members/noel-zehnder.html</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/publications/</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/members/valentino-kaufmann.html</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/contact/</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>/members/xenia-m%C3%BCnger.html</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/members/christine-grossen.html</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>/2023/06/05/post.html</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/members/gozde-cilingir.html</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>/projects/</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/members/valentino-kaufmann.html</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>/publications/</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/members/mathieu-robin.html</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>/team/</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/members/noel-zehnder.html</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>/contact/</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/members/xenia-m%C3%BCnger.html</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>/</loc>
-<lastmod>2023-06-13T07:01:08+00:00</lastmod>
+  <loc>https://conservation-genomics.ch/publications/?search=%22tag:%20Alpine%20ibex%22</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22tag:%20Ancient%20DNA%22</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22tag:%20Aldabra%20giant%20tortoises%22</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22tag:%20Aldabra%20giant%20tortoise%22</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22tag:%20European%20wildcat%22</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22tag:%20Sex%20determination%20systems%22</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22Christine%20Grossen%22%20%22C.%20Grossen%22%20</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22F.%20G%C3%B6zde%20%C3%87ilingir%22%20</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22Valentino%20Kaufmann%22%20</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22Mathieu%20Robin%22%20</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22Noel%20Zehnder%22%20</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://conservation-genomics.ch/publications/?search=%22Xenia%20M%C3%BCnger%22%20</loc>
+  <lastmod>2023-06-13T07:02:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
