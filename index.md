@@ -53,7 +53,7 @@ We are a team with a passion for combining conservation efforts with genomics in
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Meet our team"
   flip=true
