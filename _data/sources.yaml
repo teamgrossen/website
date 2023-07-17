@@ -1,3 +1,8 @@
+- id: doi.org/10.1016/j.tree.2023.05.008
+  type: paper
+  image: https://www.cell.com/cms/attachment/5833ec41-2781-4840-84f3-2a902ee2c88f/gr2.jpg
+  tags:
+   - Deleterious mutation load
 - id: doi:10.1002/ece3.8739
   type: paper
   image: https://academic.oup.com/view-large/figure/377284433/giac090fig1.jpg
