@@ -14,4 +14,4 @@ links:
   github: teamgrossen
 ---
 
-Christine Grossen ...
+Christine Grossen just moved from the University of Zürich to the Swiss Federal Research Institute (WSL) in Switzerland. Still getting settled she looks forward to build up a new team at WSL.

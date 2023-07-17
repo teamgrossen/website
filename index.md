@@ -38,7 +38,7 @@ Our research projects span a variety of species, systems and approaches in Switz
 
 {% capture text %}
 
-We are a team with a passion for combining conservation efforts with genomics investigations.
+We are a small team with a passion for combining conservation efforts with genomics investigations.
 
 {%
   include button.html

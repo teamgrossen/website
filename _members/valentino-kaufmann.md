@@ -9,4 +9,3 @@ aliases:
 links:
 ---
 
-Valentino Kaufmann

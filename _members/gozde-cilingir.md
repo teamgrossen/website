@@ -16,4 +16,3 @@ links:
   instagram: didicikit
 ---
 
-Gözde Çilingir ...
