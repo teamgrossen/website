@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.tree.2023.05.008
+  title: Purging and accumulation of genetic load in conservation
+  authors:
+  - Nicolas Dussex
+  - "Hern\xE1n E. Morales"
+  - Christine Grossen
+  - "Love Dal\xE9n"
+  - Cock van Oosterhout
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2023-06-01'
+  link: https://doi.org/gsg7qn
+  type: paper
+  image: https://www.cell.com/cms/attachment/5833ec41-2781-4840-84f3-2a902ee2c88f/gr2.jpg
+  tags:
+  - Deleterious mutation load
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/ece3.8739
   title: "Low\u2010coverage reduced representation sequencing reveals subtle within\u2010\
     island genetic structure in Aldabra giant tortoises"
