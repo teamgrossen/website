@@ -3,7 +3,7 @@
 
 # Welcome!
 
-We are broadly interested in conservation efforts aided by genomics and population analyses. Our main models include Alpine ibex, the Aldabra giant tortoise and the European Wildcat.
+We are broadly interested in conservation efforts aided by genomics and population analyses. Our main models include Alpine ibex, the Aldabra giant tortoise, the European Wildcat and Bumblebees.
 
 {% include section.html %}
 

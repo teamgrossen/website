@@ -1,6 +1,11 @@
+- id: doi.org/10.1016/j.tree.2023.05.008
+  type: review
+  image: https://www.cell.com/cms/attachment/5833ec41-2781-4840-84f3-2a902ee2c88f/gr2.jpg
+  tags: 
+   - Deleterious mutation load
 - id: doi:10.1002/ece3.8739
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/18b43129-8a2a-4eac-a6dd-2628694471a7/ece38739-fig-0001-m.png
+  image: https://academic.oup.com/view-large/figure/377284433/giac090fig1.jpg
   tags: 
    - Aldabra giant tortoises
 - id: doi:10.1038/s41467-020-14803-1
