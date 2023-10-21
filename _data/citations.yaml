@@ -9,7 +9,7 @@
   - "Love Dal\xE9n"
   - Cock van Oosterhout
   publisher: Trends in Ecology &amp; Evolution
-  date: '2023-06-01'
+  date: '2023-10-01'
   link: https://doi.org/gsg7qn
   type: paper
   image: https://www.cell.com/cms/attachment/5833ec41-2781-4840-84f3-2a902ee2c88f/gr2.jpg
@@ -201,8 +201,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/eva.12575
-  title: Heterozygosity-fitness correlation at the major histocompatibility complex
-    despite low variation in Alpine ibex (<i>Capra ibex</i>)
+  title: "Heterozygosity\u2013fitness correlation at the major histocompatibility\
+    \ complex despite low variation in Alpine ibex (<i>Capra ibex</i>)"
   authors:
   - Alice Brambilla
   - Lukas Keller
@@ -238,7 +238,7 @@
   authors:
   - Christine Grossen
   - Iris Biebach
-  - Samer Angelone-Alasaad
+  - "Samer Angelone\u2010Alasaad"
   - Lukas F. Keller
   - Daniel Croll
   publisher: Evolutionary Applications
@@ -411,12 +411,12 @@
   - V.H. Nielsen
   - F. Pompanon
   - S. Naderi
-  - H.-R. Rezaei
-  - N. Saether
+  - "H.\u2010R. Rezaei"
+  - "N. S\xE6ther"
   - O. Ertugrul
   - C. Grossen
   - G. Camenisch
-  - M. Vos-Loohuis
+  - "M. Vos\u2010Loohuis"
   - M. van Straten
   - E.A. de Poel
   - J. Windig
@@ -462,7 +462,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1755-0998.12075
-  title: Development of<scp>SNP</scp>markers identifying European wildcats, domestic
+  title: Development of <scp>SNP</scp> markers identifying European wildcats, domestic
     cats, and their admixed progeny
   authors:
   - B. Nussberger
