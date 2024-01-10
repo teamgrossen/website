@@ -1,6 +1,11 @@
 - id: doi:10.1101/2023.11.23.568345
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/11/23/2023.11.23.568345/F1.large.jpg
+  image: images/MSXenia_Figure1.png
+  tags: 
+   - Introgression
+- id: doi:10.1101/2023.12.22.572967
+  type: paper
+  image: images/Hybrids_Figure3_small.png
   tags: 
    - Hybridisation
 - id: doi:10.1016/j.tree.2023.05.008
