@@ -33,7 +33,7 @@
   tags:
   - Hybridisation
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1016/j.tree.2023.05.008
   title: Purging and accumulation of genetic load in conservation
   authors:
@@ -50,7 +50,7 @@
   tags:
   - Deleterious mutation load
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1002/ece3.8739
   title: "Low\u2010coverage reduced representation sequencing reveals subtle within\u2010\
     island genetic structure in Aldabra giant tortoises"
@@ -71,7 +71,7 @@
   tags:
   - Aldabra giant tortoises
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1038/s41467-020-14803-1
   title: Purging of highly deleterious mutations through severe bottlenecks in Alpine
     ibex
@@ -88,7 +88,7 @@
   tags:
   - Alpine ibex
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/1755-0998.13442
   title: Disentangling adaptation from drift in bottlenecked and reintroduced populations
     of Alpine ibex
@@ -106,7 +106,7 @@
   tags:
   - Alpine ibex
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/j.1558-5646.2012.01810.x
   title: SEX-CHROMOSOME TURNOVERS INDUCED BY DELETERIOUS MUTATION LOAD
   authors:
@@ -122,7 +122,7 @@
   tags:
   - Sex determination systems
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1093/gigascience/giac090
   title: Chromosome-level genome assembly for the Aldabra giant tortoise enables insights
     into the genetic health of a threatened population
@@ -143,7 +143,7 @@
   tags:
   - Aldabra giant tortoises
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/mec.16503
   title: Ancient mitochondrial and modern whole genomes unravel massive genetic diversity
     loss during near extinction of Alpine ibex
@@ -165,7 +165,7 @@
   - Alpine ibex
   - Ancient DNA
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/1755-0998.13452
   title: "A robust sequencing assay of a thousand amplicons for the high\u2010throughput\
     \ population monitoring of Alpine ibex immunogenetics"
@@ -186,7 +186,7 @@
   tags:
   - Alpine ibex
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1371/journal.pbio.1001062
   title: Ever-Young Sex Chromosomes in European Tree Frogs
   authors:
@@ -212,7 +212,7 @@
   tags:
   - Sex determination systems
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/mec.14858
   title: A comparison of genomic islands of differentiation across three young avian
     species pairs
@@ -233,7 +233,7 @@
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/a1ecf1fa-7e96-45c4-b79d-493683da69b6/mec14858-fig-0003-m.jpg
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/eva.12575
   title: "Heterozygosity\u2013fitness correlation at the major histocompatibility\
     \ complex despite low variation in Alpine ibex (<i>Capra ibex</i>)"
@@ -250,7 +250,7 @@
   tags:
   - Alpine ibex
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/j.1365-294X.2010.04884.x
   title: Effects of different mating scenarios on embryo viability in brown trout
   authors:
@@ -265,7 +265,7 @@
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/3f09468e-1f86-4015-87d2-91f9c9e3c04a/mec_4884_f3.gif
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/eva.12490
   title: Population genomics analyses of European ibex species show lower diversity
     and higher inbreeding in reintroduced populations
@@ -283,7 +283,7 @@
   tags:
   - Alpine ibex
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1086/668076
   title: 'The Balanced Lethal System of Crested Newts: A Ghost of Sex Chromosomes
     Past?'
@@ -299,7 +299,7 @@
   tags:
   - Sex determination systems
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1371/journal.pgen.1004438
   title: Introgression from Domestic Goat Generated Variation at the Major Histocompatibility
     Complex of Alpine Ibex
@@ -316,7 +316,7 @@
   tags:
   - Alpine ibex
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/mec.13751
   title: Strong reproductive isolation and narrow genomic tracts of differentiation
     among three woodpecker species in secondary contact
@@ -331,7 +331,7 @@
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/4518eb2f-3642-4b5a-80b4-50ef37fce670/mec13751-fig-0005-m.jpg
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/j.1558-5646.2010.01098.x
   title: 'TEMPERATURE-DEPENDENT TURNOVERS IN SEX-DETERMINATION MECHANISMS: A QUANTITATIVE
     MODEL'
@@ -347,7 +347,7 @@
   tags:
   - Sex determination systems
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/j.1558-5646.2012.01661.x
   title: 'THE EVOLUTION OF XY RECOMBINATION: SEXUALLY ANTAGONISTIC SELECTION VERSUS
     DELETERIOUS MUTATION LOAD'
@@ -363,7 +363,7 @@
   tags:
   - Sex determination systems
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1007/s10344-011-0592-0
   title: Microsatellite-based genotyping of MHC class II DRB1 gene in Iberian and
     Alpine ibex
@@ -382,7 +382,7 @@
   tags:
   - Alpine ibex
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1642/AUK-16-61.1
   title: Genomic variation across the Yellow-rumped Warbler species complex
   authors:
@@ -397,7 +397,7 @@
   type: paper
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/auk/133/4/10.1642_AUK-16-61.1/4/m_i0004-8038-133-4-698-f01.jpeg?Expires=1688770283&Signature=Zw4MItjtWlQU8qj0OzcFOysct1f4RFntzucuTy-B4Exb1FGeD6qsb3XW9vtOJHH8u9VZoSB~oStLv1dXha8zeYQP~B491~5Fji03Ub5JSCShrDSkH0ExIB1r5ar31Fx8JOSySrKSpX0t~IMh6kn5s~sHLIat3p~G1VVfFauVyKaPYtmFGHojnUk2seFXJPQcF-W1s3FNbkzYnXg6qmn3Y~oe96U56Dn28pDUOoPDI5j0eRgJhuNEyOVCm7QGdN7vXiVzDGy22HUMXuXMlgetdxG9bNEUtsRWLIp6qYICHg4zPNwvv4MoRL7AZNw~u6QF~wVWNIAS8YscmjqvvpYz1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.3389/fevo.2018.00144
   title: Genomic Evidence for Cryptic Speciation in Tree Frogs From the Apennine Peninsula,
     With Description of Hyla perrini sp. nov
@@ -432,7 +432,7 @@
   type: paper
   image: https://www.frontiersin.org/files/Articles/407750/fevo-06-00144-HTML-r2/image_m/fevo-06-00144-g003.jpg
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/jbg.12226
   title: 'Microsatellite diversity of the Nordic type of goats in relation to breed
     conservation: how relevant is pure ancestry?'
@@ -461,7 +461,7 @@
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/e08aef3a-0015-4ab7-b962-ee1210a80814/jbg12226-fig-0002-m.jpg
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/1755-0998.12779
   title: 'Batch effects in a multiyear sequencing study: False biological trends due
     to changes in read lengths'
@@ -478,7 +478,7 @@
   tags:
   - Alpine ibex
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1007/s12686-021-01225-4
   title: Design of SNP markers for Aldabra giant tortoises using low coverage ddRAD-seq
   authors:
@@ -494,7 +494,7 @@
   tags:
   - Aldabra giant tortoise
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
 - id: doi:10.1111/1755-0998.12075
   title: Development of <scp>SNP</scp> markers identifying European wildcats, domestic
     cats, and their admixed progeny
@@ -512,4 +512,4 @@
   tags:
   - European wildcat
   plugin: sources.py
-  file: sources.yaml
+  file: sources_bkp.yaml
