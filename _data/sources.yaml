@@ -1,3 +1,8 @@
+- id: doi: 10.1016/j.cub.2024.11.004
+  type: paper
+  image: images/load.png
+  tags: 
+   - Genetic load
 - id: doi:10.1111/mec.17429
   type: paper
   image: images/MSXenia_Figure1.png
