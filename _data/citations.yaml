@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.cub.2024.11.004
+  title: Genetic load
+  authors:
+  - Christine Grossen
+  - Uma Ramakrishnan
+  publisher: Current Biology
+  date: '2024-12-01'
+  link: https://doi.org/g8wrnd
+  type: paper
+  image: images/load.png
+  tags:
+  - Genetic load
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/mec.17429
   title: Facilitated introgression from domestic goat into Alpine ibex at immune loci
   authors:
