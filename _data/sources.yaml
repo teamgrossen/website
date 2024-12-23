@@ -1,3 +1,8 @@
+- id: doi:10.1101/2024.06.24.599926
+  type: paper
+  image: images/genome.png
+  tags: 
+   - Hybridisation
 - id: doi:10.1016/j.cub.2024.11.004
   type: paper
   image: images/load.png
