@@ -1,32 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.11.23.568345
+- id: doi:10.1111/mec.17429
   title: Facilitated introgression from domestic goat into Alpine ibex at immune loci
   authors:
   - "Xenia M\xFCnger"
   - Mathieu Robin
   - "Love Dal\xE9n"
   - Christine Grossen
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-23'
-  link: https://doi.org/gtcxxf
+  publisher: Molecular Ecology
+  date: '2024-06-07'
+  link: https://doi.org/gt6vwt
   type: paper
   image: images/MSXenia_Figure1.png
   tags:
   - Introgression
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.12.22.572967
-  title: Genetic evidence of a hybrid swarm between Alpine ibex and domestic goat
+- id: doi:10.1111/eva.13761
+  title: Genetic evidence of a hybrid swarm between Alpine ibex (<i>Capra ibex</i>)
+    and domestic goat (<i>C. hircus</i>)
   authors:
   - Alice Brambilla
   - Noel Zehnder
   - Bruno Bassano
   - Luca Rossi
   - Christine Grossen
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-12-23'
-  link: https://doi.org/gtcx3w
+  publisher: Evolutionary Applications
+  date: '2024-07-28'
+  link: https://doi.org/g8wrnb
   type: paper
   image: images/Hybrids_Figure3_small.png
   tags:
