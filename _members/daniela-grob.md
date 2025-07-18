@@ -2,7 +2,7 @@
 name: Daniela Grob
 description: MSc student UZH
 image: images/daniela.png
-group: current
+group: alumni
 role: undergrad
 aliases:
   - Daniela Grob
