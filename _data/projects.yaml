@@ -38,3 +38,11 @@
   description: In a pilot project on Bumblebees (_Bombus lapidarius_ and _B. pascuorum_), we perform genome-wide comparisons of urban and rural bumblebees, which show striking phenotypic differences.
   repo: 
   tags:
+- title: Alcon blue butterflies
+  subtitle: 
+  group: featured
+  image: images/phengaris.png
+  link:
+  description: In collaboration with practitioners, we use genomic tools to investigate, how small-scale geographic and anthropogenic structures shape genetic patterns across populations of the endangered Alcon blue butterfly in Switzerland 
+  repo: 
+  tags:
