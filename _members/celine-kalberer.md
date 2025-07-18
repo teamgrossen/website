@@ -2,8 +2,8 @@
 name: Céline Kalberer
 description: PhD student UZH
 image: images/celine.png
-group: phd
-role: graduate
+group: current
+role: phd
 aliases:
   - Céline Kalberer
 links:
