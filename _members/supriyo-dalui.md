@@ -2,7 +2,7 @@
 name: Suprio Dalui
 description: Postdoc
 image: images/suprio.jpg
-group: current
+group: alumni
 role: postdoc
 aliases:
   - S. Dalui

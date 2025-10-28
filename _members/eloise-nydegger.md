@@ -1,12 +1,12 @@
 ---
-name: Lea Bering
+name: Eloïse Nydegger
 description: MSc student UZH
-image: images/lea.png
+image: images/eloise.png
 group: current
 role: undergrad
 aliases:
-  - Lea Bering
+  - Eloïse Nydegger
 links:
 ---
 
-Lea Bering
+Eloïse Nydegger
