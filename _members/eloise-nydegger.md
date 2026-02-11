@@ -1,7 +1,7 @@
 ---
 name: Eloïse Nydegger
-description: MSc student UZH
-image: images/eloise.png
+description: MSc student UNINE
+image: images/eloise.jpg
 group: current
 role: undergrad
 aliases:
