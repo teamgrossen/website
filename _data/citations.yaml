@@ -1,5 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.11.06.686959
+  title: Evolutionary dynamics of a lethal recessive allele in reintroduced fragmented
+    lynx populations
+  authors:
+  - Janna Niehaus
+  - Michelle Imlau
+  - Saskia Keller
+  - Iris Marti
+  - Christine Breitenmoser
+  - Anna Letko
+  - Vidhya Jagannathan
+  - Christine Grossen
+  - Tosso Leeb
+  - Mirjam Pewsner
+  publisher: openRxiv
+  date: '2025-11-07'
+  link: https://doi.org/hbn67s
+  type: paper
+  image: images/lynx.png
+  tags:
+  - Deleterious mutation load
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.70191
+  title: "Conservation Genomics\u2014Making a Difference"
+  authors:
+  - Michael M. Hansen
+  - Christine Edwards
+  - Christine Grossen
+  - Marty Kardos
+  - Linda Laikre
+  - Uma Ramakrishnan
+  publisher: Molecular Ecology
+  date: '2025-11-27'
+  link: https://doi.org/hbjqdf
+  type: paper
+  tags:
+  - Conservation Genomics
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2024.06.24.599926
   title: Hybridization load introduced by Alpine ibex hybrid swarms
   authors:
