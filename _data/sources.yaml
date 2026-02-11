@@ -1,3 +1,12 @@
+- id: doi:10.1101/2025.11.06.686959
+  type: paper
+  image: images/lynx.png
+  tags:
+  - Deleterious mutation load
+- id: doi:10.1111/mec.70191
+  type: paper
+  tags: 
+  - Conservation Genomics
 - id: doi:10.1101/2024.06.24.599926
   type: paper
   image: images/genome.png
