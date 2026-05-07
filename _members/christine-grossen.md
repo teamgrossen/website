@@ -1,7 +1,7 @@
 ---
 name: Christine Grossen
 description: Scientific collaborator
-image: images/christine.png
+image: images/christine.jpg
 group: current
 role: pi
 aliases:
@@ -13,5 +13,3 @@ links:
   google-scholar: hDV_heoAAAAJ
   github: teamgrossen
 ---
-
-Christine Grossen just moved from the University of Zürich to the Swiss Federal Research Institute (WSL) in Switzerland. Still getting settled she looks forward to build up a new team at WSL.
